@@ -1,0 +1,11 @@
+.Footer{
+    padding: 20px;
+    font-size: 20px;
+    background: var(--main);
+    color: #fff;
+    text-align: center;
+}
+.Footer a{
+    text-decoration: underline;
+    color: #fff;
+}

@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 100px;
+}
+.navbar img {
+  width: 140px;
+  height: 140px;
+  object-fit: contain;
+}
+.navbar .btn {
+  width: max-content;
+  background: #fff;
+  color: #000;
+  padding: 8px 22px;
+  border-radius: 999px;
+  font-weight: 700;
+}

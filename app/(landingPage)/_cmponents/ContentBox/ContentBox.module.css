@@ -1,0 +1,14 @@
+.Box {
+  width: calc(100% / 4 - 20px);
+  height: 60px;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: var(--boxShadow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Box h6 {
+  font-size: 16px;
+  font-weight: 700;
+}

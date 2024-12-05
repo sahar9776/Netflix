@@ -1,0 +1,25 @@
+.Box {
+  padding: 20px;
+  box-shadow: var(--boxShadow);
+  background: #000;
+  margin-bottom: 5px;
+}
+.Box div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 10px;
+  margin-block: 10px;
+}
+.Box div h6 {
+  font-size: 40px;
+  font-weight: 800;
+}
+.Box div h5 {
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: 800;
+}
+.Box p {
+  color: #fff;
+}
